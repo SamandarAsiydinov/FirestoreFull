@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90023368175",
+    "project_id": "fullfirestore",
+    "storage_bucket": "fullfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90023368175:android:3cec8d5cd9a9eea7bb121a",
+        "android_client_info": {
+          "package_name": "uz.context.fullfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90023368175-4peophc70du9lsb00um53nkmip9jvj58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNkUAr8O_3St_seqYWZHd2OtR1pg-m1E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90023368175-4peophc70du9lsb00um53nkmip9jvj58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
